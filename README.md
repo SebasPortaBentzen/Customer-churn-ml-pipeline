@@ -328,7 +328,5 @@ The pipeline generates:
 
 **Sebastià Porta Bentzen**
 
-Junior Data Scientist | AI Engineer
-
 - GitHub: [SebasPortaBentzen](https://github.com/SebasPortaBentzen)
-- LinkedIn: [Sebastià Porta Bentzen](www.linkedin.com/in/sebastiàportabentzen)
+- LinkedIn: [Sebastià Porta Bentzen](https://www.linkedin.com/in/sebastiaportabentzen/)
