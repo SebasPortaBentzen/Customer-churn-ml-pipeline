@@ -329,4 +329,4 @@ The pipeline generates:
 **Sebastià Porta Bentzen**
 
 - GitHub: [SebasPortaBentzen](https://github.com/SebasPortaBentzen)
-- LinkedIn: [Sebastià Porta Bentzen](https://www.linkedin.com/in/sebastiaportabentzen/)
+- LinkedIn: [Sebastià Porta Bentzen](https://www.linkedin.com/in/sebastiàportabentzen)
